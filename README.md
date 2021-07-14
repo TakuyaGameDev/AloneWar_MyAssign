@@ -1,0 +1,2 @@
+# AloneWar_MyAssign
+AloneWarでの自分の担当箇所リポジトリ
